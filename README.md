@@ -16,6 +16,7 @@ The steps of MFDFA analysis is given below.
 
 1) Let $x(t)$ be a univariate time series such that $t=1,2,3,...N$. Find the detrended profile of the process as follows:
 $$X(k) = \sum_{t=1}^{k} [x(t)-\overline{x(t)}] , k=1,2,3,...N$$
+where \overline{x(t)} is the average over the sample period.
 
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
