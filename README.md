@@ -26,5 +26,14 @@ Step 4) Determine the variance:
 
 $$ f^{2}(s,v) = \frac{1}{s} \sum_{i=1}^{s} X_{s}^{2} [(v-1)s+i] ,  v=1,2,...N_s$$
 
+and also repeat it for $v=N_{s+1}, 2, ... 2*N_s$
+
+Step 5) Obtain the qth-order fluctuation function by average over all segments
+
+$$ F_{q}(s) = [\frac_{1}^{2N_s} \sum_{v=1}^{2N_s} [f^{2}(s,v)]^{\frac_{q}^{2}]^{1/q}$$
+
+
+
+
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
