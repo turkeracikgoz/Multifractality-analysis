@@ -36,7 +36,7 @@ $$
 
 where $q \neq 0$. It is important to find how the generalized q dependent fluctuation function Fq(s) is correlated with the timescale s for different values of q. Therefore, steps 2–5 need to be repeated for several timescales s.
 
-Step 6) Determine the scaling behavior of fluctuation functions, which could be obtained by plotting $ln F_{q}(s) vs. ln s$
+Step 6) Determine the scaling behavior of fluctuation functions, which could be obtained by plotting $lnF_{q}(s)$ vs. $ln s$
 
 
 References:
