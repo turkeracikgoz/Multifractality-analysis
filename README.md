@@ -23,6 +23,7 @@ Step 2) Divide the $X(k)$ into $N_s = [N/s]$ non-overlapping segments with equal
 Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-square fit of the series. It is basically a detrending procedure for deterministic trend. Then obtain the residuals of this fitting.
 
 Step 4) Determine the variance:
+
 $$ f^{2}$$
 
 
