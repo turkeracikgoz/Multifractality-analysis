@@ -1,8 +1,9 @@
 # Multifractal analysis of Turkish stock market
 
-In this project, i will work on multifractal structure of Turkish stock market. Theoretically, financial markets are assumed to be efficient in most cases. However, it may not be realistic assumption many times. In this project, I will apply MFDFA analysis of Kantelhardt et al. (2002) to test market efficientcy in BIST100 index.
+In this project, i will work on multifractal structure of Turkish stock market. Theoretically, financial markets are assumed to be efficient in most cases. However, it may not be realistic assumption many times. In this project, I will apply multifractal detrended fluctuation analysis (MFDFA) analysis of Kantelhardt et al. (2002) to test market efficientcy in BIST100 index.
 
-MFDFA is a powerful tool for analyzing the scaling properties of non-stationary time series. It has been used to study a variety of time series, including financial data, climate data, and biological data. 
+Multifractal detrended fluctuation analysis (MFDFA) is a method for analyzing the scaling properties of non-stationary time series. It is a generalization of detrended fluctuation analysis (DFA), which is a widely used method for analyzing the scaling properties of stationary time series. It has been used to study a variety of time series, including financial data, climate data, and biological data.  
+
 
 
 References:
