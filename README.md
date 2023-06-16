@@ -30,7 +30,7 @@ and also repeat it for $v=N_{s+1}, 2, ... 2*N_s$
 
 Step 5) Obtain the qth-order fluctuation function by average over all segments
 
-$$F_{q}(s) = [\frac_{1}^{2N_s} \sum_{v=1}^{2N_s} [f^{2}(s,v)]^{\frac_{q}^{2}]^{1/q}$$
+$$F_{q} (s) = [ \frac_{1}^{2N_s} \sum_{v=1}^{2N_s} [f^{2}(s,v)]^{\frac_{q}^{2}]^{1/q}$$
 
 
 
