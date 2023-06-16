@@ -33,6 +33,7 @@ Step 5) Obtain the qth-order fluctuation function by average over all segments:
 $$
 F_q(s)=\left[\frac{1}{2 N_s} \sum_{v=1}^{2 N_s}\left[f^2(s, v)\right]^{q / 2}\right]^{1 / q}
 $$
+
 where $q \neq 0$
 
 
