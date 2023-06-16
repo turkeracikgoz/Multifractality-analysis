@@ -34,7 +34,9 @@ $$
 F_q(s)=\left[\frac{1}{2 N_s} \sum_{v=1}^{2 N_s}\left[f^2(s, v)\right]^{q / 2}\right]^{1 / q}
 $$
 
-where $q \neq 0$
+where $q \neq 0$. It is important to find how the generalized q dependent fluctuation function Fq(s) is correlated with the timescale s for different values of q. Therefore, steps 2–5 need to be repeated for several timescales s.
+
+Step 6) Determine the scaling behavior of fluctuation functions, which could be obtained by plotting $ln F_{q}(s) vs. ln s$
 
 
 References:
