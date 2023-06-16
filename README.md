@@ -14,7 +14,8 @@ In financial data, if the series is monofractal, we can say that market is effic
 
 The steps of MFDFA analysis is given below.
 
-1) Let $x(t)$ be a univariate time series such that $t=1,2,3,...N$
+1) Let $x(t)$ be a univariate time series such that $t=1,2,3,...N$. Find the detrended profile of the process as follows:
+$$X(k) = \sum{t=1}{k}
 
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
