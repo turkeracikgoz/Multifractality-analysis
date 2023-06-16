@@ -24,7 +24,7 @@ Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-sq
 
 Step 4) Determine the variance:
 
-$$ f^{2}$$
+$$ f^{2}(s,v) = \frac{1}{s} $$
 
 
 References:
