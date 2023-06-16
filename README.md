@@ -13,7 +13,8 @@ If the time series is multifractal, the RMS values will not follow a single powe
 In financial data, if the series is monofractal, we can say that market is efficient and there is no long-range power-law correlation exist. Otherwise, the market is not efficient and long-range auto-correlations can be observed.
 
 The steps of MFDFA analysis is given below.
-1) 
+
+1) Let $x(t)$ be a univariate time series such that $t=1,2,3,...N$
 
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
