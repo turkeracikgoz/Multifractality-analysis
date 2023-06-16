@@ -20,7 +20,11 @@ where $\overline{x(t)}$ is the average over the sample period.
 
 Step 2) Divide the $X(k)$ into $N_s = [N/s]$ non-overlapping segments with equal length s. If $N/s$ is not an integer, get rid of the remaining part and repeat the same procedure starting from end of the series. As a result, $2*N_s$ segments are obtained.
 
-Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-square fit of the series. It is basically a detrending procedure for deterministic trend.
+Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-square fit of the series. It is basically a detrending procedure for deterministic trend. Then obtain the residuals of this fitting.
+
+Step 4) Determine the variance:
+$$ f^{2}$$
+
 
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
