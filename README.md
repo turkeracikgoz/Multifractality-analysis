@@ -24,8 +24,7 @@ Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-sq
 
 Step 4) Determine the variance:
 
-$$ f^{2}(s,v) = \frac{1}{s} \sum_{i=1}^{s} X_{s}^{2} [(v-1)s+i]$$ $v=1,2,...N_s$
-
+$$ f^{2}(s,v) = \frac{1}{s} \sum_{i=1}^{s} X_{s}^{2} [(v-1)s+i] ,  v=1,2,...N_s$$
 
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
