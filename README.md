@@ -41,3 +41,5 @@ Step 6) Determine the scaling behavior of fluctuation functions, which could be 
 
 References:
 Kantelhardt, J. W., Zschiegner, S. A., Koscielny-Bunde, E., Havlin, S., Bunde, A., & Stanley, H. E. (2002). Multifractal detrended fluctuation analysis of nonstationary time series. Physica A: Statistical Mechanics and its Applications, 316(1-4), 87-114.
+
+Wang, F., Liao, G. P., Zhou, X. Y., & Shi, W. (2013). Multifractal detrended cross-correlation analysis for power markets. Nonlinear Dynamics, 72, 353-363.
