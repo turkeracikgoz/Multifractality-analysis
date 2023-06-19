@@ -20,7 +20,7 @@ where $\overline{x(t)}$ is the average over the sample period.
 
 Step 2) Divide the $X(k)$ into $N_s = [N/s]$ non-overlapping segments with equal length s. If $N/s$ is not an integer, get rid of the remaining part and repeat the same procedure starting from end of the series. As a result, $2*N_s$ segments are obtained.
 
-Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-square fit of the series. It is basically a detrending procedure for deterministic trend. Then obtain the residuals of this fitting, $X_{s}(i).
+Step 3) Calculate the local trend for each of the $2*N_s$ segments by a least-square fit of the series. It is basically a detrending procedure for deterministic trend. Then obtain the residuals of this fitting, $X_{s}(i)$.
 
 Step 4) Determine the variance:
 
