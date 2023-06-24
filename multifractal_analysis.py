@@ -195,7 +195,7 @@ def multifractality(data, scale, q=2, poly_ord=1, Fig=1):
 
 
 ############
-Example
+# Example
 ############
 # Upload your data
 data = np.loadtxt('dataset.txt') # my data
